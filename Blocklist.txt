@@ -1,3 +1,8 @@
+#OTHER
+23.162.8.100   #Jone Broadband VPN exit node
+
+
+
 #Tzulo
 198.54.129.0/24
 173.249.200.0/24
