@@ -11274,6 +11274,13 @@
 
 
 
-#	AS30671 Data Bridge Limited 6-29-25
+#AS30671 Data Bridge Limited 6-29-25
 23.160.24.0/24
+
+
+
+#AS17243 - Byte Node LLC  6-29-25
+23.159.216.0/24
+
+
 
