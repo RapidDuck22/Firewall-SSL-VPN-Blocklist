@@ -10,6 +10,10 @@
 
 24.116.42.30 # single IP belonging to "Cable One inc." 7-18-25  
 
+216.126.225.55 # single IP belonging to "Hyonix inc." 7-25-25 
+
+
+
 
 #Tzulo
 68.235.46.0/24
