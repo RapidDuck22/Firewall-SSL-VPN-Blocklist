@@ -2,7 +2,7 @@
 
 
 
-	AS211440 - Karolio IT paslaugos, UAB   8-12-25
+# AS211440 - Karolio IT paslaugos, UAB   8-12-25
 45.148.45.0/24
 154.16.64.0/24
 185.223.83.0/24
