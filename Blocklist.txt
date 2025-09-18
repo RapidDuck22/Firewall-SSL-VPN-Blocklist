@@ -12,6 +12,7 @@
 
 #AS62005 - BlueVPS OU   9-17-25
 45.66.248.0/24
+45.66.249.2/24
 
 
 #AS136557 - Host Universal Pty Ltd  -  8-21-25
